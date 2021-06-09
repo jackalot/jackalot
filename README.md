@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackalot
 - 👀 I’m interested in this field.
-- 🌱 I’m currently learning JavaScript and Git
+- 🌱 I’m currently learning html and css, practicing javascript to get better.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
